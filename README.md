@@ -1,0 +1,2 @@
+# quake
+analysis of earthquake
